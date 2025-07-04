@@ -13,3 +13,7 @@ print(msg.split('!'))
 
 msg='hello world! is myFirst program'
 print(msg[0])
+
+marks=[89,90,100,45,39]
+print(marks)
+print(min(marks))
