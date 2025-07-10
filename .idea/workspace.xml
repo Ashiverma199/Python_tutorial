@@ -5,18 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="807c4b3c-c44c-485e-8ad8-413656545707" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/04tuples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/06sets.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/07user_input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/08ifelse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09elif.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10ifelse_nesting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11for_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12fizzbuzzproject.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13while_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/14Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15date_time.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/17matplotlib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19weather_app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExceptionHandling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/break_continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dice_game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emp_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/employees.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/file_rw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user_data" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/02list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/01main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/03strings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,18 +37,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Ashiverma199"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Ashiverma199&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Ashiverma199/Python_tutorial.git",
-    "accountId": "7523385c-e80f-49fb-975e-0fbe9230515b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Ashiverma199/Python_tutorial.git&quot;,
+    &quot;accountId&quot;: &quot;7523385c-e80f-49fb-975e-0fbe9230515b&quot;
   }
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/14Functions.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -62,6 +72,19 @@
     "Python.09elif.executor": "Run",
     "Python.10ifelse_nesting.executor": "Run",
     "Python.11for_loop.executor": "Run",
+    "Python.12fizzbuzzproject.executor": "Run",
+    "Python.13while_loop.executor": "Run",
+    "Python.14Functions.executor": "Run",
+    "Python.15date_time.executor": "Run",
+    "Python.16pandas.executor": "Run",
+    "Python.17matplotlib.executor": "Run",
+    "Python.18mail.executor": "Run",
+    "Python.19weather_app.executor": "Run",
+    "Python.ExceptionHandling.executor": "Run",
+    "Python.break_continue.executor": "Run",
+    "Python.dice_game.executor": "Run",
+    "Python.employees.executor": "Run",
+    "Python.file_rw.executor": "Run",
     "Python.list.executor": "Run",
     "Python.main.executor": "Run",
     "Python.strings.executor": "Run",
@@ -69,12 +92,15 @@
     "Python.user_input.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
+    "database.data.extractors.current.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "main",
     "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.11for_loop">
-    <configuration name="07user_input" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.19weather_app">
+    <configuration name="15date_time" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +113,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Ashi verma\PycharmProjects\TestProject\07user_input.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15date_time.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08ifelse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="16pandas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +135,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/08ifelse.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/16pandas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17matplotlib" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +157,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/09elif.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/17matplotlib.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10ifelse_nesting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18mail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,7 +179,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10ifelse_nesting.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/18mail.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +188,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11for_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19weather_app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="TestProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +201,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11for_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/19weather_app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.11for_loop" />
-        <item itemvalue="Python.10ifelse_nesting" />
-        <item itemvalue="Python.09elif" />
-        <item itemvalue="Python.08ifelse" />
-        <item itemvalue="Python.07user_input" />
+        <item itemvalue="Python.19weather_app" />
+        <item itemvalue="Python.18mail" />
+        <item itemvalue="Python.17matplotlib" />
+        <item itemvalue="Python.16pandas" />
+        <item itemvalue="Python.15date_time" />
       </list>
     </recent_temporary>
   </component>
